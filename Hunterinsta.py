@@ -79,6 +79,10 @@ R =('━'*60)
 print(f"""{BGreen}{R}
 
  𝗦𝗔𝗟𝗔𝗠 𝗛𝗨𝗡𝗧𝗘𝗥〞𓆪†.✅
+
+Instagram @salamamzori
+Telegram @salammzori
+Ch @T5B55
                                               
 {R}
 """)
